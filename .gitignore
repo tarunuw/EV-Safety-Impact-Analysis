@@ -1,0 +1,13 @@
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+.Rproj
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Data files
+data/*.csv
+!data/README_data.md
